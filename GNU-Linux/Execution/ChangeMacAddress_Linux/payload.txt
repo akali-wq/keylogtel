@@ -69,5 +69,5 @@ STRING history -c
 ENTER
 
 REM Close shell
-STRING exit
+STRING ex<it
 ENTER
